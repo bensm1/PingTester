@@ -1,2 +1,2 @@
 # PingTester
-Basic ping tester, it pings multiple domains and gives you a total average ping.
+Basic ping tester. Generates an average ping by comparing the RTT of multiple domains.
